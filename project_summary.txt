@@ -1,0 +1,15 @@
+Global Sales Performance Dashboard (2012–2015)
+
+This project analyzes over 17,000 global sales transactions to evaluate
+sales performance, profitability, and regional trends.
+
+Using Microsoft Excel, I cleaned and transformed raw data, created KPIs,
+and built an interactive dashboard with pivot tables, charts, and slicers.
+
+Key insights from the analysis include:
+- Technology category generates approximately 2x higher profit margin than Furniture despite similar sales volumes.
+- Western Europe contributes about 25% of total sales and profit, with the top three regions accounting for over 50% of total profit.
+- Sales grew steadily from 2012 to 2015, while profit growth lagged behind revenue growth, indicating margin pressure.
+
+This project demonstrates the ability to translate data into measurable
+business insights and support data-driven decision-making.
