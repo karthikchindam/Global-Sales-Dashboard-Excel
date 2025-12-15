@@ -1,6 +1,6 @@
  # Global Sales Performance Dashboard
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.JPG)
+![Dashboard Preview](dashboard_preview.jpg)
 
 ## Project Overview
 This project analyzes global sales data using Microsoft Excel to evaluate
