@@ -1,7 +1,7 @@
  # Global Sales Performance Dashboard
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
- 
+![Dashboard Preview](dashboard_preview.JPG)
+
 ## Project Overview
 This project analyzes global sales data using Microsoft Excel to evaluate
 sales performance, profitability, and customer behavior across regions,
